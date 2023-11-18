@@ -10,6 +10,6 @@
 ## ArmMount_Singleblend.stl
 ##
 ### This is a 3D printing file for arm mounts that can be used with the adhesive tactors in the spreadsheet. The elastic band in the spreadsheet can feed through the side slots to attach to one another and the arm. 
-# Dimensions: 2.620"x 0.636"x3.500"
+### Dimensions: 2.620"x 0.636"x3.500"
 
 
