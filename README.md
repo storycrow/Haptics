@@ -1,6 +1,6 @@
 # Haptics
 #
-### These are some tools for making your own 2-Channel Haptics Kit with voice coil actuators.
+### These are some tools for making your own 2-Channel Haptics Armband Wearable with voice coil actuators.
 #
 ## HapticsKit.xlsx
 ##
